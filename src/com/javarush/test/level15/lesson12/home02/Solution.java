@@ -38,6 +38,6 @@ public class Solution {
     }
 
     public static interface Movable extends  Flyable{
-        //void doAction();
+        
     }
 }
