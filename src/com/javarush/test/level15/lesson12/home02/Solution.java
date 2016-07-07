@@ -37,7 +37,8 @@ public class Solution {
         void doAction();
     }
 
-    public static interface Movable extends  Flyable{
-        
+    public static interface Movable {
+        void doAction();
+
     }
 }
